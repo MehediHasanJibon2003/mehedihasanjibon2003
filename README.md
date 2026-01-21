@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
+<h1 align="center">Hi 👋, I'm Mehedi Hasan Jibon</h1>
 <h3 align="center">Full Stack Web Developer | JavaScript | React | Next.js</h3>
 
 <p align="center">
